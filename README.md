@@ -1,9 +1,4 @@
-# Sample Project
-
-This is an example of how teams can structure their project repositories and format their project README.md file.
-
-When creating a project repository from this template choose "Public" so other participants can follow progress. Add a "topic" to your repository details (click on the gear icon next to the "About" section on the repository page) to help others find your work (e.g. `icesat2-hackweek-2024`).
-
+# D4 Floodsters
 
 ## Files and folders in your project repository
 
@@ -40,12 +35,9 @@ List all participants on the project. Here is a good space to share your persona
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
-| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
-| Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
+| Lidia Cano |   | |  |
+| ChangHoon Hahn | | |
+| Sharif Islam | | | |
 
 ### The problem
 
@@ -75,7 +67,7 @@ Optional: links to manuscripts or technical documents providing background infor
 
 ### Project goals
 
-List the specific project goals or research questions you want to answer. Think about what outcomes or deliverables you'd like to create (e.g. a series of tutorial notebooks demonstrating how to work with a dataset, results of an anaysis to answer a science question, an example of applying a new analysis method, or a new python package).
+Flood loss prediction maps based on `CausalFlow` for select urban areas 
 
 * Goal 1
 * Goal 2
@@ -83,14 +75,11 @@ List the specific project goals or research questions you want to answer. Think 
 
 ### Tasks
 
-What are the individual tasks or steps that need to be taken to achieve each of the project goals identified above? What are the skills that participants will need or will learn and practice to complete each of these tasks? Think about which tasks are dependent on prior tasks, or which tasks can be performed in parallel.
-
-* Task 1 (all team members will learn to use GitHub)
-* Task 2 (team members will use the scikit-learn python library)
-  * Task 2a (assigned to team member A)
-  * Task 2b (assigned to team member B)
-* Task 3
-* ...
+* select urban areas 
+* determine climate predicitons
+  * select predition methodology 
+  * compile select predictions using geospatial analysis 
+* flood loss calculation 
 
 ## Project Results
 
